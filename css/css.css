@@ -1,0 +1,22 @@
+*{
+    margin: 0 auto;
+}
+html,body{
+    width: 100%;
+    height: 100%;
+}
+body{
+    position: relative;
+
+}
+#container{
+    width: 100%;
+    height: 100%;
+    position: relative;
+
+}
+.myBtn{
+    position: relative;
+    top:50%;
+    
+}
